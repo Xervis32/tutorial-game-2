@@ -1,0 +1,753 @@
+fileFormatVersion: 2
+guid: 2b05d7e12af4a6346849c011ee3a722a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5894376408813874365
+    second: beetle_pop_0
+  - first:
+      213: 1891626476768598985
+    second: beetle_pop_1
+  - first:
+      213: -5646877312366749337
+    second: beetle_pop_2
+  - first:
+      213: -6238985384063000160
+    second: beetle_pop_3
+  - first:
+      213: 4884821583273938958
+    second: beetle_pop_4
+  - first:
+      213: 5472922370054041650
+    second: beetle_pop_5
+  - first:
+      213: 8484056722433233382
+    second: beetle_pop_6
+  - first:
+      213: -7580609403827252098
+    second: beetle_pop_7
+  - first:
+      213: -3071429173548641290
+    second: beetle_pop_8
+  - first:
+      213: -5400581341409038260
+    second: beetle_pop_9
+  - first:
+      213: 7475021902843991579
+    second: beetle_pop_10
+  - first:
+      213: -4070072715750703775
+    second: beetle_pop_11
+  - first:
+      213: -725689810885740809
+    second: beetle_pop_12
+  - first:
+      213: -8272122755469713289
+    second: beetle_pop_13
+  - first:
+      213: -6448441268446997439
+    second: beetle_pop_14
+  - first:
+      213: 6622254090558200991
+    second: beetle_pop_15
+  - first:
+      213: -2337800930765512080
+    second: beetle_pop_16
+  - first:
+      213: -1564376580076524918
+    second: beetle_pop_17
+  - first:
+      213: -1387200544859729354
+    second: beetle_pop_18
+  - first:
+      213: -7540467252282882302
+    second: beetle_pop_19
+  - first:
+      213: -8681770715377549800
+    second: beetle_pop_20
+  - first:
+      213: -1957263184233204262
+    second: beetle_pop_21
+  - first:
+      213: 8333783361366545635
+    second: beetle_pop_22
+  - first:
+      213: 6051812803553056399
+    second: beetle_pop_23
+  - first:
+      213: 2984007333821560527
+    second: beetle_pop_24
+  - first:
+      213: 8483737849009455739
+    second: beetle_pop_25
+  - first:
+      213: 2647298080864643043
+    second: beetle_pop_26
+  - first:
+      213: 6651707199801429278
+    second: beetle_pop_27
+  - first:
+      213: -5704357164021735617
+    second: beetle_pop_28
+  - first:
+      213: 8065716363835235017
+    second: beetle_pop_29
+  - first:
+      213: -7564628158085019854
+    second: beetle_pop_30
+  - first:
+      213: -2300205365758879439
+    second: beetle_pop_31
+  - first:
+      213: 6139521749082834820
+    second: beetle_pop_32
+  - first:
+      213: -1449864520131471028
+    second: beetle_pop_33
+  - first:
+      213: -4834270677915304988
+    second: beetle_pop_34
+  - first:
+      213: 1068336003480683740
+    second: beetle_pop_35
+  - first:
+      213: 555936691456423490
+    second: beetle_pop_36
+  - first:
+      213: 790195589793969977
+    second: beetle_pop_37
+  - first:
+      213: 714690823534262393
+    second: beetle_pop_38
+  - first:
+      213: 3190268565819530662
+    second: beetle_pop_39
+  - first:
+      213: 7786154614768651365
+    second: beetle_pop_40
+  - first:
+      213: 5709972486803585231
+    second: beetle_pop_41
+  - first:
+      213: -6076770188218558422
+    second: beetle_pop_42
+  - first:
+      213: -7947328572765199477
+    second: beetle_pop_43
+  - first:
+      213: -4802872472877916045
+    second: beetle_pop_44
+  - first:
+      213: 7244220029624913669
+    second: beetle_pop_45
+  - first:
+      213: -2370713862875469740
+    second: beetle_pop_46
+  - first:
+      213: 4278217745075610650
+    second: beetle_pop_47
+  - first:
+      213: 4945044160022374482
+    second: beetle_pop_48
+  - first:
+      213: 5063024188184802884
+    second: beetle_pop_49
+  - first:
+      213: 8091919586481837388
+    second: beetle_pop_50
+  - first:
+      213: -7797449137667903135
+    second: beetle_pop_51
+  - first:
+      213: -7897332646662587638
+    second: beetle_pop_52
+  - first:
+      213: 5499774803969636130
+    second: beetle_pop_53
+  - first:
+      213: -503708673779640836
+    second: beetle_pop_54
+  - first:
+      213: -9077996133070562076
+    second: beetle_pop_55
+  - first:
+      213: 4924452477666481036
+    second: beetle_pop_56
+  - first:
+      213: -5904541588580715915
+    second: beetle_pop_57
+  - first:
+      213: -4268268246383860718
+    second: beetle_pop_58
+  - first:
+      213: -6708652205511903237
+    second: beetle_pop_59
+  - first:
+      213: -6795781243991724034
+    second: beetle_pop_60
+  - first:
+      213: -8437273103178705941
+    second: beetle_pop_61
+  - first:
+      213: 4935702745481815700
+    second: beetle_pop_62
+  - first:
+      213: 7658707682031886893
+    second: beetle_pop_63
+  - first:
+      213: -438609384251359866
+    second: beetle_pop_64
+  - first:
+      213: -6352833743937826381
+    second: beetle_pop_65
+  - first:
+      213: 1493198903129409834
+    second: beetle_pop_66
+  - first:
+      213: 1455135408794184364
+    second: beetle_pop_67
+  - first:
+      213: 6724719842265984869
+    second: beetle_pop_68
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: beetle_pop_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 240
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 343d43cc2e7f23ea0800000000000000
+      internalID: -5894376408813874365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beetle_pop_1
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 240
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cb14832248604a10800000000000000
+      internalID: 1891626476768598985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beetle_pop_2
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 240
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 769da2ab00342a1b0800000000000000
+      internalID: -5646877312366749337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beetle_pop_3
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 240
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a1221849dbaa69a0800000000000000
+      internalID: -6238985384063000160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beetle_pop_4
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 240
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e00543e595f5ac340800000000000000
+      internalID: 4884821583273938958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beetle_pop_5
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 240
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2303c5616e9b3fb40800000000000000
+      internalID: 5472922370054041650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beetle_pop_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 120
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e1d5ea73ac6db570800000000000000
+      internalID: 8484056722433233382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beetle_pop_7
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 120
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7414e739e34cc690800000000000000
+      internalID: -7580609403827252098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beetle_pop_8
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 120
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f39cd590771065d0800000000000000
+      internalID: -3071429173548641290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beetle_pop_9
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 120
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4036bc22e74d05b0800000000000000
+      internalID: -5400581341409038260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beetle_pop_10
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 120
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b16d747f0dc9cb760800000000000000
+      internalID: 7475021902843991579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beetle_pop_11
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 120
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16d7bafdd623487c0800000000000000
+      internalID: -4070072715750703775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beetle_pop_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f6f80d36f4dde5f0800000000000000
+      internalID: -725689810885740809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beetle_pop_13
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 0
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7706dc57e24833d80800000000000000
+      internalID: -8272122755469713289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beetle_pop_14
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 0
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1445f37e4d88286a0800000000000000
+      internalID: -6448441268446997439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beetle_pop_15
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 0
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9c59185209f6eb50800000000000000
+      internalID: 6622254090558200991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beetle_pop_16
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 0
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 072e42e80767e8fd0800000000000000
+      internalID: -2337800930765512080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beetle_pop_17
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 0
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8a2991f9c73a4ae0800000000000000
+      internalID: -1564376580076524918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 20934946ada980743a6965c560c78203
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":120.0,"y":120.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":1,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      beetle_pop_0: -5894376408813874365
+      beetle_pop_1: 1891626476768598985
+      beetle_pop_10: 7475021902843991579
+      beetle_pop_11: -4070072715750703775
+      beetle_pop_12: -725689810885740809
+      beetle_pop_13: -8272122755469713289
+      beetle_pop_14: -6448441268446997439
+      beetle_pop_15: 6622254090558200991
+      beetle_pop_16: -2337800930765512080
+      beetle_pop_17: -1564376580076524918
+      beetle_pop_2: -5646877312366749337
+      beetle_pop_3: -6238985384063000160
+      beetle_pop_4: 4884821583273938958
+      beetle_pop_5: 5472922370054041650
+      beetle_pop_6: 8484056722433233382
+      beetle_pop_7: -7580609403827252098
+      beetle_pop_8: -3071429173548641290
+      beetle_pop_9: -5400581341409038260
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
