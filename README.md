@@ -4,3 +4,6 @@ Created to learn core mechanics and prepare for recreating Warblade in a future 
 
 ## Preview
 [Play the game](https://play.unity.com/en/games/f7e00e44-e0e2-4222-8858-a2be6698bca6/tutorial-game-2)
+
+## Screenshots
+![Gameplay](Screenshots/gameplay.png)
