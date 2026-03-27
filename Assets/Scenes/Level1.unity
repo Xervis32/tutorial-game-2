@@ -11652,10 +11652,10 @@ MonoBehaviour:
   maxPosition: {fileID: 1364787625}
   waveNumber: 0
   waves:
-  - pool: {fileID: 1222413701}
+  - pool: {fileID: 1883796114}
     spawnTimer: 0
-    spawnInterval: 1
-    objectsPerWave: 1
+    spawnInterval: 2
+    objectsPerWave: 5
     spawnedObjectCount: 0
   - pool: {fileID: 1394274589}
     spawnTimer: 0
@@ -11685,12 +11685,17 @@ MonoBehaviour:
   - pool: {fileID: 1920180631}
     spawnTimer: 0
     spawnInterval: 0.3
-    objectsPerWave: 70
+    objectsPerWave: 20
     spawnedObjectCount: 0
   - pool: {fileID: 1883796114}
     spawnTimer: 0
     spawnInterval: 0.3
     objectsPerWave: 30
+    spawnedObjectCount: 0
+  - pool: {fileID: 1222413701}
+    spawnTimer: 0
+    spawnInterval: 1
+    objectsPerWave: 1
     spawnedObjectCount: 0
   - pool: {fileID: 1920180631}
     spawnTimer: 0

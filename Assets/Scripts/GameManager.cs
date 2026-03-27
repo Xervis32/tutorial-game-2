@@ -40,7 +40,7 @@ public class GameManager : MonoBehaviour
             Pause();
         }
 
-        if (critterCounter >= 10)
+        if (critterCounter >= 20)
         {
             critterCounter = 0;
             GameObject boss1 = boss1Pool.GetPooledObject();
